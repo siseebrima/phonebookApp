@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "pwa-chrome",
+      "name": "https://rocky-waters-09518.herokuapp.com/",
+      "request": "launch",
+      "url": "https://rocky-waters-09518.herokuapp.com/"
+    }
+  ]
+}
